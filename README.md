@@ -37,9 +37,9 @@ This project is a real-time file transfer system built using **TCP sockets** in 
 
 ## 📂 Project Structure
 
-├── client.py # Client: Sends file, receives and verifies chunks
-├── server.py # Server: Receives file, splits and sends chunks
-├── README.md # Project documentation
+-├── client.py # Client: Sends file, receives and verifies chunks
+-├── server.py # Server: Receives file, splits and sends chunks
+-├── README.md # Project documentation
 
 ---
 
@@ -53,7 +53,7 @@ This project is a real-time file transfer system built using **TCP sockets** in 
 
 ## ⚙️ How to Use
 
-### 1. Start the Server
+### 1. Start the Server and Client
 
 ```bash
 python server.py
